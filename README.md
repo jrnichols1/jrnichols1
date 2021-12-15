@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin.
-- 👀 I’m interested in the .NET ecosystem.
+- 👀 I’m interested in the new projects, cooking, baking, and raw denim.
 - 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on anything?
 - 📫 How to reach me: any email to jnichols.dev will find me.
